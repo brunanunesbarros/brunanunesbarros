@@ -6,6 +6,7 @@
 🎓 Sou bacharel em Ciência da Computação (2017). Faz alguns meses que decidi voltar para a área e desde então estou estudando desenvolvimento Web.
 
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-barros-8180a4213/)
+[![Twitter](https://twitter.com/brunamnbarros)
 
 📚 Tenho estudado as tecnologias:
 - HTML5
