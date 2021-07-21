@@ -10,6 +10,7 @@
 📚 Tenho estudado as tecnologias:
 - HTML5
 - CSS3
+- SASS
 - Javascript
 - Typescript
 - ReactJs
