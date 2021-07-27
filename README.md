@@ -2,7 +2,7 @@
 
 Meu nome é Bruna, tenho 27 anos e sou bacharel em Ciência da Computação 🎓.
 
-👩‍💻 Estou em busca da primeira oportunidade como Front-end Júnior.
+👩‍💻 Estou em busca da primeira oportunidade como Front-End Júnior.
 
 
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-barros-8180a4213/)
