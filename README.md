@@ -18,4 +18,5 @@ Meu nome é Bruna, tenho 27 anos e sou bacharel em Ciência da Computação 🎓
 - Javascript
 - Typescript
 - ReactJs
-
+- NextJs
+- Chakra UI
