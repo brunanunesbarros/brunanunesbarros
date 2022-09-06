@@ -6,7 +6,7 @@ Meu nome é Bruna, tenho 28 anos e atualmente estou no meu primeiro emprego como
 <!--
 **brunanunesbarros/brunanunesbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-📚 Atuo com as seguintes ferramentas, metodologias e teconologias:
+📚 Atuo com as seguintes ferramentas, metodologias e tecnologias:
 - HTML5
 - CSS3
 - Javascript
