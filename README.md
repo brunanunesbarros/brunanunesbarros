@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Bruna, tenho 28 anos e atualmente estou no meu primeiro emprego como FrontEnd.
+Meu nome é Bruna, tenho 29 anos e atualmente estou no meu primeiro emprego como FrontEnd.
 
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-barros-8180a4213/)
 <!--
